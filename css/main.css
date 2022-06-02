@@ -1,0 +1,11 @@
+body{
+    background-color: #E5E5E5;
+    font-family: 'Inter', sans-serif;
+}
+
+.container-capa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 96px 0px;
+}
