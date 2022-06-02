@@ -29,6 +29,10 @@ nav ul{
     justify-content: center;
     gap: 142px;
 }
+.container-logo-nav nav ul li a{
+    text-decoration: none;
+    color: #667085;
+}
 
 .header-actions a{
     padding: 16px 24px;

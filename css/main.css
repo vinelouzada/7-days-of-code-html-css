@@ -1,11 +1,39 @@
+:root{
+    --text-color: #667085;
+    --main-color: #8E2424;
+    --text-black: #101828;
+}
+
 body{
-    background-color: #E5E5E5;
+    background-color: #fff;
     font-family: 'Inter', sans-serif;
 }
 
-.container-capa{
+.about-us{
     display: flex;
+    gap: 24px;
     flex-direction: column;
     align-items: center;
     margin: 96px 0px;
+}
+
+.about-us spam{
+    color: var(--main-color);
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.about-us h1{
+    color: var(--text-black);
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.about-us p{
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight: 400;
+    width: 791px;
+    text-align: center;
+    line-height: 30px;
 }
