@@ -37,3 +37,35 @@ body{
     text-align: center;
     line-height: 30px;
 }
+
+.metricas{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 32px;
+    margin: 96px 0px;
+}
+
+.metricas div{
+    width: 280px;
+}
+
+.metricas div h3{
+    color: var(--main-color);
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.metricas div span{
+    color: var(--text-black);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.metricas div p{
+    margin-top: 8px;
+    font-size: 16px;
+    color: #667085;
+    line-height: 24px;
+}
