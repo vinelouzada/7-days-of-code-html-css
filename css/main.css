@@ -27,13 +27,14 @@ body{
     color: var(--text-black);
     font-weight: 600;
     font-size: 48px;
+    text-align: center;
 }
 
 .about-us p{
     color: var(--text-color);
     font-size: 20px;
     font-weight: 400;
-    width: 791px;
+    width: 60%;
     text-align: center;
     line-height: 30px;
 }
@@ -68,4 +69,39 @@ body{
     font-size: 16px;
     color: #667085;
     line-height: 24px;
+}
+
+.vagas-talentos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 96px;
+}
+
+.vagas-talentos span{
+    color: var(--main-color);
+    padding: 5.5px 12px;
+    background-color: #f8f4f3;
+    border-radius: 16px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    font-size: 14px;
+}
+
+.vagas-talentos h2{
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.vagas-talentos p{
+    text-align: center;
+    font-size: 20px;
+    color: var(--text-color);
+}
+
+.vagas-talentos img{
+    margin: 64px 0px;
+    width: 95%;
 }
