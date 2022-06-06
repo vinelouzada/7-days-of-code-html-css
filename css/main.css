@@ -78,7 +78,13 @@ body{
     margin-top: 96px;
 }
 
-.vagas-talentos span{
+.container-info-vagas{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-info-vagas span{
     color: var(--main-color);
     padding: 5.5px 12px;
     background-color: #f8f4f3;
@@ -105,3 +111,48 @@ body{
     margin: 64px 0px;
     width: 95%;
 }
+
+.container-vagas{
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+}
+
+.categoria-vaga{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.container-vagas h3{
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 8px;
+
+}
+.titulo-vaga{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.vaga{
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    gap: 32px;
+    padding: 24px;
+}
+
+
+.informacoes{
+    display: flex;
+    gap: 24px;
+}
+.informacoes span{
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--text-color);
+}
+
