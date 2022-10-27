@@ -1,15 +1,18 @@
-<p align="center">
-  <img  src="https://7daysofcode.io/assets/img/background-7days.1647533642.svg"/>
-</p>
+# 7 Days of Code: HTML e CSS
 
-Esse projeto foi um desafio aceito do [7 Days of Code](https://7daysofcode.io/) da [Alura](https://www.alura.com.br/), uma empresa de educação em tecnologia.
+Esse projeto foi um desafio aceito do [7 Days of Code](https://7daysofcode.io/) da [Alura](https://www.alura.com.br/), uma empresa de educação em tecnologia. O desafio aceito foi criar uma pagina completa de 'vagas' de uma empresa fictícia. De acordo com essa [prototipação](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1).
+
 
 7 Days of Code tem o objetivo de estimular a prática na tecnologia que você está estudando. São 7 dias de desafios e aprendizado!
 
-<h1> 7 Days of Code: HTML e CSS</h1>
+| 🪧 Vitrine.Dev |     |
+| -------------  | --- |
+| ✨ Nome        |  7 Days of Code: HTML e CSS
+| 🏷️ Tecnologias | Java, HTML5, CSS3
+| 🚀 URL         | https://7-days-of-code-html-css.vercel.app/
 
-O desafio aceito foi criar uma pagina completa de 'vagas' de uma empresa fictícia. De acordo com essa [prototipação](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1).
 
+![](https://user-images.githubusercontent.com/57668890/198282832-13a014c2-e9c5-4ebe-918c-08191fdb425f.jpeg#vitrinedev)
 
 
 <h2> Tecnologias e Ferramentas </h2>
